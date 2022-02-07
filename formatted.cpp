@@ -1,3 +1,4 @@
+
 // this is a working version with master calibration capability, it can be used as master to control another units for parallel operation // it also has function to calibrate slave with master calibration, so that the two units has very close calibration // LCD display is enabled as well
 
 #include <EEPROM.h> #include <Wire.h> #include <LCD.h> #include <LiquidCrystal_I2C.h>
